@@ -1,0 +1,6 @@
+@LessonNoteAPI_HostAddress = http://localhost:5183
+
+GET {{LessonNoteAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
